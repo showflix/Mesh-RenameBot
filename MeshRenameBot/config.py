@@ -20,8 +20,8 @@ except ImportError:
         OWNER_ID = [int, 0]
 
         # Public username url or invite link of private chat
-        FORCEJOIN = [str,"https://t.me/showflix_movie"]
-        FORCEJOIN_ID = [int,-1001792757301]
+        FORCEJOIN = [str,""]
+        FORCEJOIN_ID = [int,-1001753177166]
 
         TRACE_CHANNEL = [int, 0]
 
